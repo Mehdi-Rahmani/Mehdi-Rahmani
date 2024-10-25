@@ -8,7 +8,10 @@ I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Er
 
 - Completed the **Qiskit Global Summer School** ![Credly Badge](link)
 - Earned several [IBM Quantum Computing related badges](https://www.credly.com/users/mehdi-rahmani-zadeh)
-
+    - Basics of Quantum Information
+    - Variational Algorithm Design
+    - Practical Introduction to Quantum-Safe Cryptography
+    - Qiskit Global Summer School 2024 - Quantum Excellence
 ## Quantum Computing Projects
 
 ### 1. Bachelor's Projects
