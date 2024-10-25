@@ -2,7 +2,7 @@
 
 I’m currently in my 4th year of a physics bachelor's program, with a strong focus on quantum computing. My academic and research interests lie in understanding the deep potential of quantum algorithms and their real-world applications. 
 
-I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Error Correction, and I've had the privilege of participating in Qiskit's Global Summer School. I am passionate about exploring the frontiers of quantum computing and applying my skills to solve complex problems in this field. I am actively seeking opportunities for further academic development, particularly in quantum information science, and my dream is to pursue a career where I can contribute to cutting-edge research.
+I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Error Correction, and I've had the privilege of participating in Qiskit's Global Summer School 2024. I am passionate about exploring the frontiers of quantum computing and applying my skills to solve complex problems in this field. I am actively seeking opportunities for further academic development, particularly in quantum information science, and my dream is to pursue a career where I can contribute to cutting-edge research.
 
 ## My Achievements so far
 
@@ -22,7 +22,6 @@ I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Er
 ### 2. Qiskit Global Summer School
 I completed Qiskit's Global Summer School 2024, where I learned About the following topics:
 
-You can view my work in the [notebooks](link).
 
 
 ## Explore My Work
