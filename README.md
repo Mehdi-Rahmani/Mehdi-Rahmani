@@ -6,7 +6,9 @@ I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Er
 
 ## My Achievements so far
 
-- Completed the **Qiskit Global Summer School** ![Credly Badge](https://images.credly.com/size/680x680/images/d7c78aeb-2731-483f-ac65-06e349caba69/Qiskit_20Global_20Summer_20School_202024_20Quantum_20Excellence.png)
+- Completed the [Qiskit Global Summer School 2024](https://www.credly.com/users/mehdi-rahmani-zadeh)
+
+
 - Earned several [IBM Quantum Computing related badges](https://www.credly.com/users/mehdi-rahmani-zadeh)
     - Basics of Quantum Information
     - Variational Algorithm Design
