@@ -1,10 +1,10 @@
 # Hi, I'm Mehdi Rahmani Zadeh
 
-I’m currently in my 4th year of a physics bachelor's program, with a strong focus on quantum computing. My academic and research interests lie in understanding the deep potential of quantum algorithms and their real-world applications. 
+As a fourth year student studying physics I have an interest, in quantum computing and its applications in the world, which has been a driving force, in my academic journey so far. 
 
-I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Error Correction, and I've had the privilege of participating in Qiskit's Global Summer School 2024. I am passionate about exploring the frontiers of quantum computing and applying my skills to solve complex problems in this field. I am actively seeking opportunities for further academic development, particularly in quantum information science, and my dream is to pursue a career where I can contribute to cutting-edge research.
+During my journey far I've been involved in projects related to Variational Quantum Eigensolvers (VQE) and Quantum Error Correction. Attending Qiskits Global Summer School in 2024 was a highlight for me, as it fueled my passion for this area more. I'm excited about delving into quantum information science and aspiring to build a career where I can make contributions, to cutting edge research. 
 
-## My Achievements so far
+## My Progress so far
 
 - Completed the [Qiskit Global Summer School 2024](https://www.credly.com/users/mehdi-rahmani-zadeh)
 
@@ -14,8 +14,8 @@ I've completed projects in Variational Quantum Eigensolvers (VQE) and Quantum Er
     - Variational Algorithm Design
     - Practical Introduction to Quantum-Safe Cryptography
     - Qiskit Global Summer School 2024 - Quantum Excellence
+    - 
 ## Quantum Computing Projects
-
 ### 1. Bachelor's Projects
 
 - **Variational Quantum Eigensolver (VQE)**  
@@ -42,6 +42,4 @@ I completed Qiskit's Global Summer School 2024, where I learned About the follow
 - [Summer School Notebooks](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Summer-School-Notebooks)
 - [Bachelor’s Projects](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Bachelor-Projects)
 
-Quantum computing continues to fascinate me, not only for its theoretical depth but also for the potential it holds to revolutionize various fields. I am eager to expand my understanding and contribute to this rapidly evolving domain. 
-
-I am particularly excited by the prospect of working in a research environment where I can continue to learn from experts, explore new ideas, and deepen my expertise. I look forward to the opportunity to collaborate and further develop my skills in this area. If you share similar interests or would like to discuss my work, I would welcome the chance to connect.
+I am intrigued by quantum computing not, for its side but also for its potential to revolutionize different industries. I am eager about the chance to be part of a research environment where I could gain insights, from professionals, foster innovative concepts and enhance my abilities. 
