@@ -14,7 +14,6 @@ During my journey far I've been involved in projects related to Variational Quan
     - Variational Algorithm Design
     - Practical Introduction to Quantum-Safe Cryptography
     - Qiskit Global Summer School 2024 - Quantum Excellence
-    - 
 ## Quantum Computing Projects
 ### 1. Bachelor's Projects
 
