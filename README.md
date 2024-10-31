@@ -1,8 +1,6 @@
 # Hi, I'm Mehdi Rahmani Zadeh
 
-As a fourth year student studying physics I have an interest, in quantum computing and its applications in the world, which has been a driving force, in my academic journey so far. 
-
-During my journey far I've been involved in projects related to Variational Quantum Eigensolvers (VQE) and Quantum Error Correction. Attending Qiskits Global Summer School in 2024 was a highlight for me, as it fueled my passion for this area more. I'm excited about delving into quantum information science and aspiring to build a career where I can make contributions, to cutting edge research. 
+As a fourth year student studying physics at Tabriz University, I have an interest in quantum computing and its applications in the world, which has been a driving force, in my academic journey so far. 
 
 ## My Progress so far
 
