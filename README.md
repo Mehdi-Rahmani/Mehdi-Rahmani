@@ -1,6 +1,6 @@
 # Hi, I'm Mehdi Rahmani Zadeh
 
-As a fourth year student studying physics at Tabriz University, I have an interest in quantum computing and its applications in the world, which has been a driving force in my academic journey so far. 
+As a fourth year student studying physics at University of Tabriz, I have an interest in quantum computing and its applications in the world, which has been a driving force in my academic journey so far. 
 
 ## My Progress so far
 
@@ -18,20 +18,23 @@ As a fourth year student studying physics at Tabriz University, I have an intere
 - **Variational Quantum Eigensolver (VQE)**  
   Project on designing and implementing VQE, including ansatz design, parameter optimization, and error mitigation techniques.
 
-- **Quantum Error Correction**  
+- **Quantum Error Correction (QEC) and Fault-Tolerant Gates**  
   Explored the fundamentals of quantum error correction and fault-tolerant quantum computation.
 
 ### 2. Qiskit Global Summer School
 I completed Qiskit's Global Summer School 2024, where I learned About the following topics:
 - Introduction to Qiskit workflow, and Qiskit Runtime Primitives
-- Quantum circuit compilation
-- Hardware Noise modeling and characterization
+- Quantum Circuit Compilation
+- Hardware Noise modeling and Characterization
 - Execution on Noisy Quantum Hardware: fighting errors before fault tolerance
-- Workflows for Quantum-centric Supercomputing
+- Workflows for Quantum-Centric Supercomputing
 - Mapping Computational Problems onto Quantum Circuits
 - Quantum Combinatorial Optimization
-- Hamiltonian Dynamics: applications and simulation
+- Hamiltonian Dynamics: Applications and Simulation
 - Quantum Machine Learning
+
+### 3. Feature Proposals
+- Proposed a feature for compatibility-based backend selection in Qiskit to optimize circuit fidelity by aligning quantum circuits with backend-specific gate requirements and connectivity. [https://github.com/Qiskit/qiskit-ibm-runtime/issues/2016]
 
 
 
@@ -39,4 +42,4 @@ I completed Qiskit's Global Summer School 2024, where I learned About the follow
 - [Summer School Notebooks](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Summer-School-Notebooks)
 - [Bachelor’s Projects](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Bachelor-Projects)
 
-I am intrigued by quantum computing, for its potential to revolutionize different industries. I am eager about the chance to be part of a research environment where I could gain insights, from professionals, foster innovative concepts and enhance my abilities. 
+I am intrigued by quantum computing, for its potential to revolutionize different industries. I am eager about the chance to be part of a research environment where I could gain insights from professionals, foster innovative concepts and enhance my abilities. 
