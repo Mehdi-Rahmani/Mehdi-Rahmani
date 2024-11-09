@@ -1,6 +1,6 @@
 # Hi, I'm Mehdi Rahmani Zadeh
 
-As a fourth year student studying physics at Tabriz University, I have an interest in quantum computing and its applications in the world, which has been a driving force, in my academic journey so far. 
+As a fourth year student studying physics at Tabriz University, I have an interest in quantum computing and its applications in the world, which has been a driving force in my academic journey so far. 
 
 ## My Progress so far
 
@@ -39,4 +39,4 @@ I completed Qiskit's Global Summer School 2024, where I learned About the follow
 - [Summer School Notebooks](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Summer-School-Notebooks)
 - [Bachelor’s Projects](https://github.com/Mehdi-Rahmani/Mehdi-Rahmani/tree/main/Bachelor-Projects)
 
-I am intrigued by quantum computing not, for its side but also for its potential to revolutionize different industries. I am eager about the chance to be part of a research environment where I could gain insights, from professionals, foster innovative concepts and enhance my abilities. 
+I am intrigued by quantum computing, for its potential to revolutionize different industries. I am eager about the chance to be part of a research environment where I could gain insights, from professionals, foster innovative concepts and enhance my abilities. 
